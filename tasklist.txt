@@ -1,0 +1,9 @@
+-Add networking code
+-Share common variables
+-???
+-Profit
+
+
+-Add option for multiplayer in settings.txt
+-Multiplayer Server, receive array of settings for each client
+-Data to server
